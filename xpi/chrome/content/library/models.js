@@ -1161,7 +1161,7 @@ Models.register({
 	},
 	
 	post : function(ps){
-		return request('http://gyazo.com/upload.cgi', {
+		return request('http://pyazo.hachiojipm.org/', {
 			sendContent : {
 				id        : this.getId(),
 				imagedata : ps.file,
