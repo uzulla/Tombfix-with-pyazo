@@ -1,3 +1,13 @@
+# Pyazo対応の為の改造版
+
+GyazoのURLを書き換えただけです、test.xpiが適当にパックした物です。
+
+これは個人的に使っているものなので、Pyazoユーザー以外はFork元にいってくださいどうぞ。
+
+
+以下Fork元のテキスト
+
+
 # Tombfix[![Build Status](https://travis-ci.org/tombfix/core.png?branch=master)](https://travis-ci.org/tombfix/core)
 
 TombfixはTomblooの派生版です。主な目的はTomblooのメンテナンスとなります。
